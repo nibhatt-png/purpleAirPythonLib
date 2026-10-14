@@ -7,7 +7,7 @@
     "repositoryId": null,
     "repositoryName": null,
     "createdAt": "2026-10-13T20:31:26.013Z",
-    "updatedAt": "2026-10-13T20:31:49.718Z",
+    "updatedAt": "2026-10-14T15:11:33.535Z",
     "languages": [
       "JSON",
       "Python"
@@ -1258,9 +1258,6 @@
       "toolId": "Lizard",
       "patterns": [
         {
-          "patternId": "Lizard_ccn-minor"
-        },
-        {
           "patternId": "Lizard_file-nloc-medium"
         },
         {
@@ -1271,6 +1268,18 @@
         },
         {
           "patternId": "Lizard_file-nloc-critical"
+        },
+        {
+          "patternId": "Lizard_nloc-critical"
+        },
+        {
+          "patternId": "Lizard_ccn-critical"
+        },
+        {
+          "patternId": "Lizard_ccn-medium"
+        },
+        {
+          "patternId": "Lizard_parameter-count-critical"
         }
       ]
     },
